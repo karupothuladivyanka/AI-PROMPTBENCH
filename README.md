@@ -28,7 +28,7 @@ AI-PROMPTBENCH is a React-based web application designed to compare responses fr
 . Dynamic Feedback: Loading indicators, response badges, and real-time updates make it easy to compare outputs at a glance.
 
 
-![App Output](https://github.com/NiteeshYadav223/AI-COMPARATOR/blob/main/Screenshot%202025-11-20%20133228.png?raw=true)
+![App Output](https://github.com/karupothuladivyanka/AI-PROMPTBENCH/blob/main/Screenshot%202025-11-20%20133228.png?raw=true)
 
 # Installation
 
